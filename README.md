@@ -1,5 +1,5 @@
 # FirstGit-Repo
-practice Git commands
+Practice Git commands
 git clone <URL>          # Copy/download a GitHub repository to your local machine <br/>
 git status               # Check the status of files (new, modified, deleted) <br/>
 git add <file-name>      # Add a specific file to the staging area <br/>
